@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+</head>
+  
+<body>
+   
+    
+    <img style="position:absolute; top:20px; left:150px; " width="200" height="300" src=m.jpg>
+    <a href="mobile.html" style="position:absolute; top:315px; left:190px; font-size:x-large " ><b>moto g60</b></a>
+
+    <img style="position:absolute; top:0px; right:125px; " width="400" height="340" src=s.jpg>
+    <a href="mobile.html" style="position:absolute; top:320px; right:200px; font-size:x-large " ><b>samsung galaxy note 20</b></a>
+
+    <img style="position:absolute; top:350px; left:150px; " width="200" height="300" src=n.jpg>
+    <a href="mobile.html" style="position:absolute; top:645px; left:170px; font-size:x-large " ><b>one plus nord 5g</b></a>
+
+    <img style="position:absolute; top:345px; right:125px; " width="400" height="350" src=i.jpg>
+    <a href="mobile.html" style="position:absolute; top:650px; right:275px; font-size:x-large " ><b>iphone 13</b></a>
+
+    <h1 style="position:absolute; top:150px; left:475px; color:red; font-size:10ex; " width="200" height="300" >WELCOME TO</h1>
+    <h1 style="position:absolute; top:250px; left:475px; color:red; font-size:10ex; " width="200" height="300" >MOBILE ARENA</h1>
+
+    <a href="mobile.html" style="position:absolute; top:10px; right:30px; font-size:x-large " ><b>ABOUT US</b></a>
+    <a href="mobile.html" style="position:absolute; top:40px; right:0px; font-size:x-large " ><b>CONTACT US</b></a>
+</body>
+  
+</html>
